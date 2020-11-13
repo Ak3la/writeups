@@ -68,7 +68,8 @@ La machine Enigma m3 avait plusieurs paramètre à régler pour coder un message
 
 <u>Le fichier foulard.txt nous aide à trouver ces paramètres :</u>
 
-- « Uniquement les impairs en ordre croissant » fait référence aux rotors à utiliser donc le 1, le 3 et le donne la position des bagues sur les rotors est donné en plaintext : **REJ**
+- « Uniquement les impairs en ordre croissant » fait référence aux rotors à utiliser donc le 1, le 3 et le 5 
+- La position des bagues sur les rotors est donné en plaintext : **REJ**
 - Les connections entre les lettres sont a trouver dans le message envoyé à Antoine Rossignol pour les challenges préliminaire : « b a :e z ». La plugboard est donc **B-E** et **A-Z**
 - La position initiale des rotors est donnée en plaintext : **MER**
 - Le réflecteur à utiliser est à deviner dans la lettre **B**, seule partie du message qui se rapportait au réflecteur
